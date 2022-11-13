@@ -1,0 +1,126 @@
+2022-11-13 07:36:35,571 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3, script30, script4, script5, script6, script7, script8, script9 to die
+2022-11-13 07:36:38,574 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3, script30, script4, script5, script6, script7, script8, script9 to die
+2022-11-13 07:36:38,578 INFO stopped: script9 (exit status 0)
+2022-11-13 07:36:41,583 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3, script30, script4, script5, script6, script7, script8 to die
+2022-11-13 07:36:41,588 INFO stopped: script8 (exit status 0)
+2022-11-13 07:36:44,593 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3, script30, script4, script5, script6, script7 to die
+2022-11-13 07:36:44,598 INFO stopped: script7 (exit status 0)
+2022-11-13 07:36:47,603 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3, script30, script4, script5, script6 to die
+2022-11-13 07:36:47,609 INFO stopped: script6 (exit status 0)
+2022-11-13 07:36:50,610 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3, script30, script4, script5 to die
+2022-11-13 07:36:50,615 INFO stopped: script5 (exit status 0)
+2022-11-13 07:36:53,618 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3, script30, script4 to die
+2022-11-13 07:36:53,622 INFO stopped: script4 (exit status 0)
+2022-11-13 07:36:56,627 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3, script30 to die
+2022-11-13 07:36:56,630 INFO stopped: script30 (exit status 0)
+2022-11-13 07:36:59,635 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29, script3 to die
+2022-11-13 07:36:59,640 INFO stopped: script3 (exit status 0)
+2022-11-13 07:37:02,645 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28, script29 to die
+2022-11-13 07:37:02,651 INFO stopped: script29 (exit status 0)
+2022-11-13 07:37:05,656 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27, script28 to die
+2022-11-13 07:37:05,661 INFO stopped: script28 (exit status 0)
+2022-11-13 07:37:08,666 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26, script27 to die
+2022-11-13 07:37:08,672 INFO stopped: script27 (exit status 0)
+2022-11-13 07:37:11,676 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25, script26 to die
+2022-11-13 07:37:11,682 INFO stopped: script26 (exit status 0)
+2022-11-13 07:37:14,687 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24, script25 to die
+2022-11-13 07:37:14,692 INFO stopped: script25 (exit status 0)
+2022-11-13 07:37:17,697 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23, script24 to die
+2022-11-13 07:37:17,702 INFO stopped: script24 (exit status 0)
+2022-11-13 07:37:20,707 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22, script23 to die
+2022-11-13 07:37:20,713 INFO stopped: script23 (exit status 0)
+2022-11-13 07:37:23,718 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21, script22 to die
+2022-11-13 07:37:23,723 INFO stopped: script22 (exit status 0)
+2022-11-13 07:37:26,727 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20, script21 to die
+2022-11-13 07:37:26,735 INFO stopped: script21 (exit status 0)
+2022-11-13 07:37:29,740 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2, script20 to die
+2022-11-13 07:37:29,746 INFO stopped: script20 (exit status 0)
+2022-11-13 07:37:32,751 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19, script2 to die
+2022-11-13 07:37:32,756 INFO stopped: script2 (exit status 0)
+2022-11-13 07:37:35,761 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18, script19 to die
+2022-11-13 07:37:35,767 INFO stopped: script19 (exit status 0)
+2022-11-13 07:37:38,772 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17, script18 to die
+2022-11-13 07:37:38,777 INFO stopped: script18 (exit status 0)
+2022-11-13 07:37:41,781 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16, script17 to die
+2022-11-13 07:37:41,786 INFO stopped: script17 (exit status 0)
+2022-11-13 07:37:44,791 INFO waiting for script1, script10, script11, script12, script13, script14, script15, script16 to die
+2022-11-13 07:37:44,796 INFO stopped: script16 (exit status 0)
+2022-11-13 07:37:47,801 INFO waiting for script1, script10, script11, script12, script13, script14, script15 to die
+2022-11-13 07:37:47,805 INFO stopped: script15 (exit status 0)
+2022-11-13 07:37:50,807 INFO waiting for script1, script10, script11, script12, script13, script14 to die
+2022-11-13 07:37:50,812 INFO stopped: script14 (exit status 0)
+2022-11-13 07:37:53,817 INFO waiting for script1, script10, script11, script12, script13 to die
+2022-11-13 07:37:53,823 INFO stopped: script13 (exit status 0)
+2022-11-13 07:37:56,827 INFO waiting for script1, script10, script11, script12 to die
+2022-11-13 07:37:56,833 INFO stopped: script12 (exit status 0)
+2022-11-13 07:37:59,837 INFO waiting for script1, script10, script11 to die
+2022-11-13 07:37:59,843 INFO stopped: script11 (exit status 0)
+2022-11-13 07:38:02,847 INFO waiting for script1, script10 to die
+2022-11-13 07:38:02,850 INFO stopped: script10 (exit status 0)
+2022-11-13 07:38:05,855 INFO waiting for script1 to die
+2022-11-13 07:38:05,861 INFO stopped: script1 (exit status 0)
+2022-11-13 07:38:05,885 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-11-13 07:38:05,885 INFO Included extra file "/etc/supervisor/conf.d/script.conf" during parsing
+2022-11-13 07:38:05,886 INFO RPC interface 'supervisor' initialized
+2022-11-13 07:38:05,886 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2022-11-13 07:38:05,887 INFO supervisord started with pid 1
+2022-11-13 07:38:06,891 INFO spawned: 'script1' with pid 197
+2022-11-13 07:38:06,894 INFO spawned: 'script10' with pid 198
+2022-11-13 07:38:06,896 INFO spawned: 'script11' with pid 199
+2022-11-13 07:38:06,899 INFO spawned: 'script12' with pid 200
+2022-11-13 07:38:06,902 INFO spawned: 'script13' with pid 201
+2022-11-13 07:38:06,907 INFO spawned: 'script14' with pid 202
+2022-11-13 07:38:06,910 INFO spawned: 'script15' with pid 203
+2022-11-13 07:38:06,914 INFO spawned: 'script16' with pid 204
+2022-11-13 07:38:06,919 INFO spawned: 'script17' with pid 205
+2022-11-13 07:38:06,923 INFO spawned: 'script18' with pid 206
+2022-11-13 07:38:06,927 INFO spawned: 'script19' with pid 207
+2022-11-13 07:38:06,931 INFO spawned: 'script2' with pid 208
+2022-11-13 07:38:06,936 INFO spawned: 'script20' with pid 209
+2022-11-13 07:38:06,940 INFO spawned: 'script21' with pid 210
+2022-11-13 07:38:06,945 INFO spawned: 'script22' with pid 211
+2022-11-13 07:38:06,949 INFO spawned: 'script23' with pid 212
+2022-11-13 07:38:06,953 INFO spawned: 'script24' with pid 213
+2022-11-13 07:38:06,957 INFO spawned: 'script25' with pid 214
+2022-11-13 07:38:06,961 INFO spawned: 'script26' with pid 215
+2022-11-13 07:38:06,964 INFO spawned: 'script27' with pid 216
+2022-11-13 07:38:06,968 INFO spawned: 'script28' with pid 217
+2022-11-13 07:38:06,972 INFO spawned: 'script29' with pid 218
+2022-11-13 07:38:06,976 INFO spawned: 'script3' with pid 219
+2022-11-13 07:38:06,980 INFO spawned: 'script30' with pid 220
+2022-11-13 07:38:06,983 INFO spawned: 'script4' with pid 221
+2022-11-13 07:38:06,987 INFO spawned: 'script5' with pid 222
+2022-11-13 07:38:06,991 INFO spawned: 'script6' with pid 223
+2022-11-13 07:38:06,994 INFO spawned: 'script7' with pid 224
+2022-11-13 07:38:06,998 INFO spawned: 'script8' with pid 225
+2022-11-13 07:38:07,002 INFO spawned: 'script9' with pid 226
+2022-11-13 07:38:08,005 INFO success: script1 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script10 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script11 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script12 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script13 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script14 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script15 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script16 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script17 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script18 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script19 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,005 INFO success: script2 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script20 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script21 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script22 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script23 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script24 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script25 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script26 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script27 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script28 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script29 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script3 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script30 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script4 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script5 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script6 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,006 INFO success: script7 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,007 INFO success: script8 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-11-13 07:38:08,007 INFO success: script9 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

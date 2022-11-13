@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    supervisor:
+        build: .
+        volumes:
+            - ./script.py:/var/app/script.py
+            - ./script.conf:/etc/supervisor/conf.d/script.conf
+            - ./supervisord.conf:/etc/supervisord.conf
